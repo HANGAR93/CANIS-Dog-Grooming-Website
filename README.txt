@@ -4,11 +4,11 @@ Personal project showcasing UX/UI design and responsive web development for a do
 
 ## Preview
 
-<img src="cannis1.png" width="100%">
+![CANIS Homepage](./cannis1.png)
 
-<img src="canis2.png" width="100%">
+![CANIS Website](./canis2.png)
 
-<img src="canis3.png" width="100%">
+![CANIS Mobile](./canis3.png)
 
 ## Overview
 
